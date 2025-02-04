@@ -16,7 +16,7 @@ It is a peer to peer conference call implementation using WebRTC, Socket.io and 
 
 # Demo
 
-You can test at https://nexameet.onrender.com
+You can test at https://nexameet-vmks.onrender.com
 
 # ScreenShots
 
